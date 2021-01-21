@@ -8,6 +8,9 @@ fastapi = "*"
 hypercorn = "*"
 requests = "*"
 beautifulsoup4 = "*"
+python-multipart = "*"
+tortoise-orm = "*"
+passlib = "*"
 
 [dev-packages]
 
